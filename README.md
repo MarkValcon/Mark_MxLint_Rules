@@ -2,6 +2,7 @@
 Public rules repository for MxLint
 
 RegoMark 1.2 — release notes
+
 **Removed**
 008_0016 UncommittedStatusChangeReturned has been retired because it produced too many false positives. As a result, uncommitted status changes returned to the client are no longer detected. The number 008_0016 will not be reused.
 
